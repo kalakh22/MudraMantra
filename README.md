@@ -2,7 +2,7 @@
 
 MudraMantra is a sleek, voice-powered expense tracker built with React. Add income and expense transactions using voice commands or manual inputs. Perfect for keeping your finances in check with zero hassle.
 
-[MudraMantra UI Preview]
+
 ![image](https://github.com/user-attachments/assets/6e14e15c-e4cb-4172-bae5-e4e942356437)
 
 
